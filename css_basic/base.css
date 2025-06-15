@@ -99,8 +99,7 @@ a {
 
 article {
 	padding: 50px 15px;
-    flex: 2;
-    overflow-y: auto;
+
 }
 article > *:first-child {
 	margin-top: 0;
@@ -113,18 +112,7 @@ header .right {
 	margin: 0 10px 15px;
 }
 
-/* main */
 
-body {
-display: flex;
-flex-direction: column;
-}
-
-main {
-display: flex;
-flex-direction: row;
-flex:auto;
-}
 
 
 /* Header */
@@ -160,8 +148,7 @@ header a {
 aside p {
 	border-radius: 10px;
 	padding: 20px 20px;
-    flex: 1;
-    overflow-y: auto;
+
 }
 
 

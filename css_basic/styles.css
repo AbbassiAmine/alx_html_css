@@ -1,0 +1,27 @@
+/* Aside */
+aside p {
+
+    flex: 1;
+    overflow-y: auto;
+}
+
+
+/* main */
+main {
+display: flex;
+flex-direction: row;
+flex:auto;
+}
+
+
+/* body */
+body {
+display: flex;
+flex-direction: column;
+}
+
+/* Article */
+article {
+    flex: 2;
+    overflow-y: auto;
+}
